@@ -1,0 +1,62 @@
+C:\Users\kmu\Desktop\final_project\final_project\bin\Debug\final_project.exe.config
+C:\Users\kmu\Desktop\final_project\final_project\bin\Debug\final_project.exe
+C:\Users\kmu\Desktop\final_project\final_project\bin\Debug\final_project.pdb
+C:\Users\kmu\Desktop\final_project\final_project\bin\Debug\Oracle.DataAccess.dll
+C:\Users\kmu\Desktop\final_project\final_project\obj\Debug\final_project.Form1.resources
+C:\Users\kmu\Desktop\final_project\final_project\obj\Debug\final_project.Properties.Resources.resources
+C:\Users\kmu\Desktop\final_project\final_project\obj\Debug\final_project.csproj.GenerateResource.Cache
+C:\Users\kmu\Desktop\final_project\final_project\obj\Debug\final_project.exe
+C:\Users\kmu\Desktop\final_project\final_project\obj\Debug\final_project.pdb
+C:\Users\kmu\김시영\final_project\final_project\bin\Debug\final_project.exe
+C:\Users\kmu\김시영\final_project\final_project\bin\Debug\final_project.exe.config
+C:\Users\kmu\김시영\final_project\final_project\bin\Debug\Oracle.DataAccess.dll
+C:\Users\kmu\김시영\final_project\final_project\obj\Debug\final_project.Form1.resources
+C:\Users\kmu\김시영\final_project\final_project\obj\Debug\final_project.Form2.resources
+C:\Users\kmu\김시영\final_project\final_project\obj\Debug\final_project.Form3.resources
+C:\Users\kmu\김시영\final_project\final_project\obj\Debug\final_project.Form4.resources
+C:\Users\kmu\김시영\final_project\final_project\obj\Debug\final_project.Properties.Resources.resources
+C:\Users\kmu\김시영\final_project\final_project\obj\Debug\final_project.csproj.GenerateResource.Cache
+C:\Users\kmu\김시영\final_project\final_project\obj\Debug\final_project.exe
+C:\Users\kmu\김시영\final_project\final_project\obj\Debug\final_project.pdb
+C:\Users\kmu\김시영\final_project\final_project\bin\Debug\final_project.pdb
+C:\Users\kmu\김시영\final_project\final_project\obj\Debug\final_project.csprojResolveAssemblyReference.cache
+C:\Users\kmu\Desktop\김시영\final_project\final_project\bin\Debug\final_project.exe.config
+C:\Users\kmu\Desktop\김시영\final_project\final_project\obj\Debug\final_project.exe
+C:\Users\kmu\Desktop\김시영\final_project\final_project\obj\Debug\final_project.pdb
+C:\Users\kmu\Desktop\김시영\final_project\final_project\bin\Debug\final_project.exe
+C:\Users\kmu\Desktop\김시영\final_project\final_project\bin\Debug\final_project.pdb
+C:\Users\kmu\Desktop\김시영\final_project\final_project\bin\Debug\Oracle.DataAccess.dll
+C:\Users\kmu\Desktop\김시영\final_project\final_project\obj\Debug\final_project.csprojResolveAssemblyReference.cache
+C:\Users\kmu\Desktop\김시영\final_project\final_project\obj\Debug\final_project.Form1.resources
+C:\Users\kmu\Desktop\김시영\final_project\final_project\obj\Debug\final_project.Form2.resources
+C:\Users\kmu\Desktop\김시영\final_project\final_project\obj\Debug\final_project.Form3.resources
+C:\Users\kmu\Desktop\김시영\final_project\final_project\obj\Debug\final_project.Form4.resources
+C:\Users\kmu\Desktop\김시영\final_project\final_project\obj\Debug\final_project.Properties.Resources.resources
+C:\Users\kmu\Desktop\김시영\final_project\final_project\obj\Debug\final_project.csproj.GenerateResource.Cache
+C:\Users\kmu\Desktop\final_projectwefwef\final_project\bin\Debug\final_project.exe.config
+C:\Users\kmu\Desktop\final_projectwefwef\final_project\obj\Debug\final_project.exe
+C:\Users\kmu\Desktop\final_projectwefwef\final_project\obj\Debug\final_project.pdb
+C:\Users\kmu\Desktop\final_projectwefwef\final_project\bin\Debug\final_project.exe
+C:\Users\kmu\Desktop\final_projectwefwef\final_project\bin\Debug\final_project.pdb
+C:\Users\kmu\Desktop\final_projectwefwef\final_project\bin\Debug\Oracle.DataAccess.dll
+C:\Users\kmu\Desktop\final_projectwefwef\final_project\obj\Debug\final_project.csprojResolveAssemblyReference.cache
+C:\Users\kmu\Desktop\final_projectwefwef\final_project\obj\Debug\final_project.Form1.resources
+C:\Users\kmu\Desktop\final_projectwefwef\final_project\obj\Debug\final_project.Form2.resources
+C:\Users\kmu\Desktop\final_projectwefwef\final_project\obj\Debug\final_project.Form3.resources
+C:\Users\kmu\Desktop\final_projectwefwef\final_project\obj\Debug\final_project.Form4.resources
+C:\Users\kmu\Desktop\final_projectwefwef\final_project\obj\Debug\final_project.Properties.Resources.resources
+C:\Users\kmu\Desktop\final_projectwefwef\final_project\obj\Debug\final_project.csproj.GenerateResource.Cache
+C:\Users\kmu\Desktop\김시영\final_project 김시영 1130 많이해따\final_project\bin\Debug\final_project.exe.config
+C:\Users\kmu\Desktop\김시영\final_project 김시영 1130 많이해따\final_project\obj\Debug\final_project.exe
+C:\Users\kmu\Desktop\김시영\final_project 김시영 1130 많이해따\final_project\obj\Debug\final_project.pdb
+C:\Users\kmu\Desktop\김시영\final_project 김시영 1130 많이해따\final_project\bin\Debug\final_project.exe
+C:\Users\kmu\Desktop\김시영\final_project 김시영 1130 많이해따\final_project\bin\Debug\final_project.pdb
+C:\Users\kmu\Desktop\김시영\final_project 김시영 1130 많이해따\final_project\bin\Debug\Oracle.DataAccess.dll
+C:\Users\kmu\Desktop\김시영\final_project 김시영 1130 많이해따\final_project\obj\Debug\final_project.csprojResolveAssemblyReference.cache
+C:\Users\kmu\Desktop\김시영\final_project 김시영 1130 많이해따\final_project\obj\Debug\final_project.Form1.resources
+C:\Users\kmu\Desktop\김시영\final_project 김시영 1130 많이해따\final_project\obj\Debug\final_project.Form2.resources
+C:\Users\kmu\Desktop\김시영\final_project 김시영 1130 많이해따\final_project\obj\Debug\final_project.Form3.resources
+C:\Users\kmu\Desktop\김시영\final_project 김시영 1130 많이해따\final_project\obj\Debug\final_project.Form4.resources
+C:\Users\kmu\Desktop\김시영\final_project 김시영 1130 많이해따\final_project\obj\Debug\final_project.Properties.Resources.resources
+C:\Users\kmu\Desktop\김시영\final_project 김시영 1130 많이해따\final_project\obj\Debug\final_project.csproj.GenerateResource.Cache
+C:\Users\kmu\Desktop\김시영\final_project 김시영 1130 많이해따\final_project\obj\Debug\final_project.Form5.resources
